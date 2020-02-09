@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Second Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="daysoftheweek">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string name="title_activity_food">FoodActivity</string>
+</resources>
